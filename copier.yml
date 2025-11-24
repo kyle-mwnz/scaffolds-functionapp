@@ -1,0 +1,4 @@
+_templates_suffix: ""   # render every file
+
+slug:
+  type: str
